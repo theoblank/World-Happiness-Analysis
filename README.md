@@ -9,3 +9,6 @@ Editors: John Helliwell, Richard Layard, Jeffrey D. Sachs, and Jan Emmanuel De N
 
 Citation:
 Helliwell, John F., Richard Layard, Jeffrey Sachs, and Jan-Emmanuel De Neve, eds. 2020. World Happiness Report 2020. New York: Sustainable Development Solutions Network
+
+Link to dataset: 
+https://www.kaggle.com/mathurinache/world-happiness-report
